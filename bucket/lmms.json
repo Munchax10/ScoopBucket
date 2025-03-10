@@ -1,8 +1,6 @@
 {
-    "version": "1.3.0-alpha.1",
+    "version": "1.3.0",
     "description": "Cross-platform music production software.",
-    "homepage": "https://lmms.io/",
-    "license": "GPL-2.0-or-later",
     "url": "https://github.com/LMMS/lmms/releases/download/v1.3.0-alpha.1/lmms-1.3.0-alpha.1.102+g89fc6c960-mingw-win64.exe",
     "shortcuts": [
         [
