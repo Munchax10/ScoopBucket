@@ -4,7 +4,7 @@
     "url": "https://github.com/LMMS/lmms/releases/download/v1.3.0-alpha.1/lmms-1.3.0-alpha.1.102+g89fc6c960-mingw-win64.exe",
     "shortcuts": [
         [
-            "lmms.exe",
+            "lmms-1.3.0-alpha.1.102+g89fc6c960-mingw-win64.exe",
             "LMMS"
         ]
     ]
